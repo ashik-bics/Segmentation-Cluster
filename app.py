@@ -13,7 +13,7 @@ df['Cluster'] = df['Cluster'].astype(str)
 custom_colors = {
     '0': 'blue',
     '1': 'green',
-    '2': 'violet',
+    '2': 'orange',
     '3': 'red'
 }
 
