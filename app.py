@@ -12,9 +12,9 @@ df['Cluster'] = df['Cluster'].astype(str)
 
 custom_colors = {
     '0': 'blue',
-    '1': 'green',
-    '2': 'orange',
-    '3': 'red'
+    '1': 'red',
+    '2': 'violet',
+    '3': 'green'
 }
 
 st.title("Customer Segmentation Visualizations")
