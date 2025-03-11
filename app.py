@@ -1,4 +1,4 @@
-import streamlit as st
+wimport streamlit as st
 import pandas as pd
 import plotly.express as px
 
@@ -13,7 +13,7 @@ df['Cluster'] = df['Cluster'].astype(str)
 custom_colors = {
     '0': 'blue',
     '1': 'red',
-    '2': 'violet',
+    '2': 'yellow',
     '3': 'green'
 }
 
